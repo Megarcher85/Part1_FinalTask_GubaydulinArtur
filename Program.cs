@@ -29,3 +29,7 @@ for (int i = 0; i < arr1.Length; i++)
     };
 }
 
+for (int i = 0; i < arr2.Length; i++)
+{
+    Console.Write($"{arr2[i]} ");
+}
